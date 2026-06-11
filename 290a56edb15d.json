@@ -16,8 +16,8 @@
       "folder_name": "Aeonglass Feminization1.5",
       "mod_id": "Aeonglass Feminization",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Aeonglass_Feminization_v1.5_995df324.zip",
-      "bundle_sha256": "995df3243076efa787300b43231c8d7588f6f39c3df9e57ef5612111a7a9f658"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Aeonglass_Feminization_v1.5_e88deefc.zip",
+      "bundle_sha256": "e88deefc6fe5e708839141566a7953ce981f7c0a119a6f6228cc7d6b69475d0a"
     },
     {
       "name": "AncientWaifus",
@@ -32,8 +32,8 @@
       "folder_name": "AncientWaifus",
       "mod_id": "AncientWaifus",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_a00e6dee.zip",
-      "bundle_sha256": "a00e6dee4797471a77aba8ce11bbb0d3a039e05602249ef4c1e25c987e8a8a89"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_7c73ba1e.zip",
+      "bundle_sha256": "7c73ba1ec35df1ac515133a6fbfc96114b18b49563ff514b894c22b64dbd7dff"
     },
     {
       "name": "AnimeWaifuSilent",
@@ -48,8 +48,8 @@
       "folder_name": "AnimeWaifuSilent",
       "mod_id": "AnimeWaifuSilent",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/AnimeWaifuSilent_v0.0.0_746e72be.zip",
-      "bundle_sha256": "746e72be74e1c772b8bce3b34b637746fd152c3bf77de9d328ebbbc5410d7d84"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/AnimeWaifuSilent_v0.0.0_47bed226.zip",
+      "bundle_sha256": "47bed226fa0545f7a8a7409306e676b22b74f95ef5515b433c34140199a84369"
     },
     {
       "name": "BaseLib",
@@ -64,8 +64,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_f9e14ccd.zip",
-      "bundle_sha256": "f9e14ccd78d3b323a87433c048573ce0b1f163e5d16bd286d104d539c94cd6c3"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_4c1ddd2d.zip",
+      "bundle_sha256": "4c1ddd2df7151b3ff0f13fb43318baaf93bb8e32e8f980fc0a45b3894f1493a7"
     },
     {
       "name": "BetterSpire2 Lite",
@@ -94,8 +94,8 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.4_3611cf66.zip",
-      "bundle_sha256": "3611cf6661b49c364b1d0d3c0bfc73105a5c93847b8ee7b5e69aa89daac35c1a"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.4_4e6b2f4f.zip",
+      "bundle_sha256": "4e6b2f4f5aa255bdc4957aa7e595c90db229011b3666e39c93ac06f0b614af00"
     },
     {
       "name": "End Run Graph",
@@ -109,8 +109,8 @@
       "folder_name": "EndRunGraph-v0.2.0-Beta-STS2-v0.106.1",
       "mod_id": "EndRunGraph",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.2.0_9f563525.zip",
-      "bundle_sha256": "9f5635258b40a616dda63b574b77064017844df8160a12b5cd55c7048e3d0e46"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.2.0_8c622e2c.zip",
+      "bundle_sha256": "8c622e2ccd38fe9c78e7e98a0c5b68357a0593c46b9365298b521ae95293b260"
     },
     {
       "name": "Enemy Cycle",
@@ -124,8 +124,8 @@
       "folder_name": "EnemyCycle",
       "mod_id": "EnemyCycle",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Enemy_Cycle_v0.1.0_3299ea14.zip",
-      "bundle_sha256": "3299ea14d4ce8edd7c9ee59b40df0d1ccc6ae0dff9858ddb55f5b28af44dd1d1"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Enemy_Cycle_v0.1.0_37a97ae5.zip",
+      "bundle_sha256": "37a97ae5a35dec51d2ea1ac02d57a1d70af4ef0cc223d6caafc100e584edb2c6"
     },
     {
       "name": "Mesugaki_Regent",
@@ -140,8 +140,8 @@
       "folder_name": "Mesugaki",
       "mod_id": "Mesugaki",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_210e848f.zip",
-      "bundle_sha256": "210e848f6fcc5a17b0ec8cddb270bbd0202a27babb489e25534352f5e110114a"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_d4cf57bc.zip",
+      "bundle_sha256": "d4cf57bc240f15c98d9c36aab699adef857651120e2e65ced8f820be8a0686da"
     },
     {
       "name": "necrobinderSkin",
@@ -155,8 +155,8 @@
       "folder_name": "necrobinderSkin",
       "mod_id": "necrobinderSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_a578e8c5.zip",
-      "bundle_sha256": "a578e8c5f1f8c74fe616dc6ea024dbd5232eafa5e4378584cdc323a0c3ba9a6e"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_72a18f60.zip",
+      "bundle_sha256": "72a18f60d212dff40a9ac2c081861e6a8412e9eeb30a45a77ebc245d9aa24db1"
     },
     {
       "name": "neowSkin",
@@ -171,12 +171,12 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_3b9162fa.zip",
-      "bundle_sha256": "3b9162fa281dc8e8204ceeefd4e18f522257d5a6e8e3250b6eaeff54e610d8b2"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_1b40455e.zip",
+      "bundle_sha256": "1b40455ef02f2ab1b80ec3f7232af9842f54ae9e243b3177c2e079263cd5bed6"
     },
     {
       "name": "RegentCardsAnimeRework",
-      "version": "v0.6",
+      "version": "v0.6.5",
       "source": "github:DoublePigeon/RegentCardsAnimeRework",
       "hash": "eb9f09774d4c069a4c0c9dced8e41a263c31c42a791515efde21f25779938b29",
       "files": [
@@ -187,12 +187,12 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_e838111c.zip",
-      "bundle_sha256": "e838111cb7a6080b2579edf96a5493b0ef1c234c655166dc3e1e70fc86af2fb4"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6.5_f846f7a5.zip",
+      "bundle_sha256": "f846f7a5a9fbab6ec1ce77e890705d14115f2d6120d66355a9c0fdd34feacb51"
     },
     {
       "name": "RitsuLib (STS2 0.105.1 compat)",
-      "version": "0.4.16",
+      "version": "0.4.19",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "3081ac75222492effa93e3cadf9fc54d8778c155bcfa1a48a7b99b960d11d408",
       "files": [
@@ -205,8 +205,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.16_cdb0a9c1.zip",
-      "bundle_sha256": "cdb0a9c1498ca5c62350576b8138608558b0f2ba10b84a81f601144625327a3b"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.19_16ee0080.zip",
+      "bundle_sha256": "16ee0080563931bc58f737076fe26bdb0ff9fe50db00945d24eb07ffc102e7c6"
     },
     {
       "name": "silentSkin",
@@ -220,8 +220,8 @@
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_0d86ff8c.zip",
-      "bundle_sha256": "0d86ff8ca019b2774806bd572cc86ad4ac955d276e3ae0f9cad5e84b23b09ef3"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_bb8fddbf.zip",
+      "bundle_sha256": "bb8fddbfcb0e688b60faf6c5e1aab8eb0af749311d5eb44d548e8908eb6bc481"
     },
     {
       "name": "STS Tracker Companion",
@@ -236,8 +236,8 @@
       "folder_name": "StsCompanion",
       "mod_id": "StsCompanion",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/STS_Tracker_Companion_v1.6.0_9fb91512.zip",
-      "bundle_sha256": "9fb9151204ad13c184656ea4efedf6df2d1705ca81949325cd19f5f4636c1db9"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/STS_Tracker_Companion_v1.6.0_4ba8417a.zip",
+      "bundle_sha256": "4ba8417a86b1e6759ee0c06b1b3bc0ffe8a2afee1459e131a516ab1e1ea3dab4"
     },
     {
       "name": "Unified Save Path",
@@ -252,8 +252,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_842e390e.zip",
-      "bundle_sha256": "842e390e96f5ba5f020f78f8918c4e5b8613f9b4386f94920983f3aaf73c4b1f"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_30cdb47e.zip",
+      "bundle_sha256": "30cdb47ea509d7914902bfd515787385f6592e07876a8736cb0a83abc296a421"
     },
     {
       "name": "商人“阿塔”",
@@ -268,8 +268,8 @@
       "folder_name": "ATA_Merchant",
       "mod_id": "ATA_Merchant",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/_v0.1.5_5c553d2f.zip",
-      "bundle_sha256": "5c553d2f032ffa9f038ad60aa388cf7cb639020a76a1d4308cc34a7c1acdee89"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/_v0.1.5_0bddf4bf.zip",
+      "bundle_sha256": "0bddf4bf331fdf306dc32af3582e17a6a78f1a4615f60d02fda20a904714cfad"
     },
     {
       "name": "尖塔棺者卡图娘化",
@@ -285,8 +285,8 @@
       "folder_name": "NecrobinderFemPortraits",
       "mod_id": "NecrobinderFemPortraits",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/_v0.1.0_bc896bb0.zip",
-      "bundle_sha256": "bc896bb0cfe223efba4f84b3999ba3f2ab06c5c5055f3c9d6d235e6a678bb74a"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/_v0.1.0_ea280548.zip",
+      "bundle_sha256": "ea2805487b154f20a86880d6ac69d73d2fd8bc12408c8753a7d42be9382a3f7d"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -301,8 +301,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_38cdcf99.zip",
-      "bundle_sha256": "38cdcf99fa7bc930d1c5d4f5fe7bae2283b5b1e0afb0f3887d5df3ecce634c74"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_56d466af.zip",
+      "bundle_sha256": "56d466af9b6f340ea97b2d3818cd91c2af26f47b07b82dc2422184672b50abd3"
     },
     {
       "name": "ShowCardDmgInRewards",
@@ -316,8 +316,8 @@
       "folder_name": "ShowCardDmgInRewards",
       "mod_id": "ShowCardDmgInRewards",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.3_43f7e71d.zip",
-      "bundle_sha256": "43f7e71dee8086bbd7a1022024824e6cda23018cf07e6ada95a34f794fb4f8c6"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.3_f1b941cc.zip",
+      "bundle_sha256": "f1b941cc8ebb0cb991dc64183a906775a4d3965fb29ae40dcfd099d198cf3011"
     },
     {
       "name": "RandomVision",
@@ -332,11 +332,26 @@
       "folder_name": "RandomVision",
       "mod_id": "RandomVision",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_1463b799.zip",
-      "bundle_sha256": "1463b79936ccdb957103e0fbad9d25faaf8c74be50c714c11167e3fdcfc9b71a"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_3719b1ed.zip",
+      "bundle_sha256": "3719b1ed5e10e4fd6b93f4f9bea1e4cfb192f0e355b7c46ae322cc91ced26fe8"
+    },
+    {
+      "name": "characterselect_silent_replace",
+      "version": "0.1.1",
+      "source": "nexus:slaythespire2/mods/1189",
+      "hash": "5b6feb93dfb15876a01ded7a8873acfb2b0da3a9539c115eee1250c59a3f3ea9",
+      "files": [
+        "characterselect_silent_replace_V.0.0.2\\characterselect_silent_replace.json",
+        "characterselect_silent_replace_V.0.0.2\\characterselect_silent_replace.pck"
+      ],
+      "folder_name": "characterselect_silent_replace_V.0.0.2",
+      "mod_id": "characterselect_silent_replace",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/characterselect_silent_replace_v0.1.1_8a5dd54a.zip",
+      "bundle_sha256": "8a5dd54ac34af2c227e5634076c068f32458e64ac862f132db8bdbb9a42031af"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-10T10:48:48.003488Z",
+  "updated_at": "2026-06-11T12:24:39.138705200Z",
   "public": true
 }
