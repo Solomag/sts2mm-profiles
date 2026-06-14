@@ -104,14 +104,14 @@
       "source": "nexus:slaythespire2/mods/1040",
       "hash": "1b3a9d6d7bc02141a941a85ad289fd261d9e852166a6dc263b752c078a6c8aa0",
       "files": [
-        "EndRunGraph-v03.1-Beta-STS2-v0.107.0\\EndRunGraph.dll",
-        "EndRunGraph-v03.1-Beta-STS2-v0.107.0\\mod_manifest.json"
+        "EndRunGraph-v03.2-Beta-STS2-v0.107.0\\EndRunGraph.dll",
+        "EndRunGraph-v03.2-Beta-STS2-v0.107.0\\mod_manifest.json"
       ],
-      "folder_name": "EndRunGraph-v03.1-Beta-STS2-v0.107.0",
+      "folder_name": "EndRunGraph-v03.2-Beta-STS2-v0.107.0",
       "mod_id": "EndRunGraph",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.3.1_bd60ca8e.zip",
-      "bundle_sha256": "bd60ca8e6a35e6f061d186c93f50553f69bc86c9b441f3001ab416c5d06919df"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.3.1_7110b0ad.zip",
+      "bundle_sha256": "7110b0ad0a3592b97124e1bac46b7e471539c17f2b65456606d31039669d3b3f"
     },
     {
       "name": "Enemy Cycle",
@@ -193,7 +193,7 @@
     },
     {
       "name": "RitsuLib (STS2 0.105.1 compat)",
-      "version": "0.4.21",
+      "version": "0.4.22",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "3081ac75222492effa93e3cadf9fc54d8778c155bcfa1a48a7b99b960d11d408",
       "files": [
@@ -209,8 +209,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.21_6120875a.zip",
-      "bundle_sha256": "6120875a1bb09a91a54b284bbd609493c45aedf7ecc03787193b911c3b17665e"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.22_845cdfc4.zip",
+      "bundle_sha256": "845cdfc45e2cb8e76c7f7a05419ac3f1fcdfb5699b910ba923bce66d9f1887e5"
     },
     {
       "name": "silentSkin",
@@ -338,88 +338,12 @@
       "enabled": true,
       "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_d1a7be3e.zip",
       "bundle_sha256": "d1a7be3e61fb09c40dfd06d639b54072208d94d4713dfc2ab6930e587191882d"
-    },
-    {
-      "name": "characterselect_silent_replace",
-      "version": "0.1.1",
-      "source": "nexus:slaythespire2/mods/1189",
-      "hash": "5b6feb93dfb15876a01ded7a8873acfb2b0da3a9539c115eee1250c59a3f3ea9",
-      "files": [
-        "characterselect_silent_replace_V.0.0.2\\characterselect_silent_replace.json",
-        "characterselect_silent_replace_V.0.0.2\\characterselect_silent_replace.pck"
-      ],
-      "folder_name": "characterselect_silent_replace_V.0.0.2",
-      "mod_id": "characterselect_silent_replace",
-      "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/characterselect_silent_replace_v0.1.1_89aae17d.zip",
-      "bundle_sha256": "89aae17dc7200b94c69a5fe070f5b1c5e17fbbb9d915ea3d1752cf35df9ebeb1"
-    },
-    {
-      "name": "DefectSkin_AD",
-      "version": "0.1.0",
-      "source": null,
-      "hash": "d963c649bb3a7275e28286e42a89f75340f75a9074f57001e8b62712aa301261",
-      "files": [
-        "DefectSkin_AD\\DefectSkin_AD.dll",
-        "DefectSkin_AD\\DefectSkin_AD.json",
-        "DefectSkin_AD\\DefectSkin_AD.pck"
-      ],
-      "folder_name": "DefectSkin_AD",
-      "mod_id": "DefectSkin_AD",
-      "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_0c138b29.zip",
-      "bundle_sha256": "0c138b2908b0674c61e33385c13c695ba82d370f71e0a4fcd6d6575b671df28c"
-    },
-    {
-      "name": "Watcher",
-      "version": "1.4.15",
-      "source": "github:lamali292/WatcherMod",
-      "hash": "34de66b8ff1b3a6d1d73a3138724cae8719393dcdf43d1b28c708ad74656f7ac",
-      "files": [
-        "Watcher\\Watcher\\Watcher.dll",
-        "Watcher\\Watcher\\Watcher.json",
-        "Watcher\\Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.15_d31b1485.zip",
-      "bundle_sha256": "d31b14858b256dce8ebe2818fc1560d88987a510a55216a700caa64439eb1e9e"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-14T09:31:31.865043300Z",
+  "updated_at": "2026-06-14T19:51:54.553844800Z",
   "public": true,
   "mod_extras": {
-    "silentSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
-      "tags": [
-        "img"
-      ]
-    },
-    "Mesugaki": {
-      "note": "Мод на внешность Регента",
-      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
-      "tags": [
-        "img"
-      ]
-    },
-    "StsCompanion": {
-      "tags": [
-        "stats"
-      ]
-    },
-    "Aeonglass Feminization1.5": {
-      "note": "Анимешные часы",
-      "tags": [
-        "img"
-      ]
-    },
-    "UnifiedSavePath": {
-      "tags": [
-        "base"
-      ]
-    },
     "ModConfig": {
       "tags": [
         "base"
@@ -431,33 +355,43 @@
         "qol"
       ]
     },
-    "EnemyCycle": {
-      "tags": [
-        "QOL"
-      ]
-    },
     "RandomVision": {
       "tags": [
         "cheats"
       ]
     },
-    "EndRunGraph-v03.1-Beta-STS2-v0.107.0": {
+    "necrobinderSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
+      "tags": [
+        "img"
+      ]
+    },
+    "UnifiedSavePath": {
+      "tags": [
+        "base"
+      ]
+    },
+    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
       "note": "Можно настроить",
       "tags": [
         "beta",
         "stats"
       ]
     },
-    "DefectSkin_AD": {
-      "custom_url": "https://gall.dcinside.com/mgallery/board/view/?id=slay&no=360705"
-    },
-    "AncientWaifus": {
-      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+    "ATA_Merchant": {
+      "note": "Neko Merchant Replacer",
       "tags": [
         "img"
       ]
     },
-    "RegentCardsAnimeRework": {
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
+      "tags": [
+        "qol"
+      ]
+    },
+    "silentSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
       "tags": [
         "img"
       ]
@@ -468,40 +402,26 @@
         "base"
       ]
     },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "necrobinderSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
-      "tags": [
-        "img"
-      ]
-    },
-    "ATA_Merchant": {
-      "note": "Neko Merchant Replacer",
-      "tags": [
-        "img"
-      ]
-    },
-    "neowSkin": {
-      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
-      "tags": [
-        "img"
-      ]
-    },
-    "NecrobinderFemPortraits": {
-      "note": "Necrobinder Card Portraits",
-      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
-      "tags": [
-        "img"
-      ]
-    },
     "STS2-RitsuLib": {
       "tags": [
         "base"
+      ]
+    },
+    "EnemyCycle": {
+      "tags": [
+        "QOL"
+      ]
+    },
+    "Aeonglass Feminization1.5": {
+      "note": "Анимешные часы",
+      "tags": [
+        "img"
+      ]
+    },
+    "AncientWaifus": {
+      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+      "tags": [
+        "img"
       ]
     },
     "AnimeWaifuSilent": {
@@ -511,9 +431,34 @@
         "img"
       ]
     },
-    "Watcher": {
+    "Mesugaki": {
+      "note": "Мод на внешность Регента",
+      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
       "tags": [
-        "persona"
+        "img"
+      ]
+    },
+    "RegentCardsAnimeRework": {
+      "tags": [
+        "img"
+      ]
+    },
+    "StsCompanion": {
+      "tags": [
+        "stats"
+      ]
+    },
+    "NecrobinderFemPortraits": {
+      "note": "Necrobinder Card Portraits",
+      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
+      "tags": [
+        "img"
+      ]
+    },
+    "neowSkin": {
+      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
+      "tags": [
+        "img"
       ]
     }
   }
