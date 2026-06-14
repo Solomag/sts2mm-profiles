@@ -353,51 +353,46 @@
       "enabled": true,
       "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/characterselect_silent_replace_v0.1.1_89aae17d.zip",
       "bundle_sha256": "89aae17dc7200b94c69a5fe070f5b1c5e17fbbb9d915ea3d1752cf35df9ebeb1"
+    },
+    {
+      "name": "DefectSkin_AD",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "d963c649bb3a7275e28286e42a89f75340f75a9074f57001e8b62712aa301261",
+      "files": [
+        "DefectSkin_AD\\DefectSkin_AD.dll",
+        "DefectSkin_AD\\DefectSkin_AD.json",
+        "DefectSkin_AD\\DefectSkin_AD.pck"
+      ],
+      "folder_name": "DefectSkin_AD",
+      "mod_id": "DefectSkin_AD",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_0c138b29.zip",
+      "bundle_sha256": "0c138b2908b0674c61e33385c13c695ba82d370f71e0a4fcd6d6575b671df28c"
+    },
+    {
+      "name": "Watcher",
+      "version": "1.4.15",
+      "source": "github:lamali292/WatcherMod",
+      "hash": "34de66b8ff1b3a6d1d73a3138724cae8719393dcdf43d1b28c708ad74656f7ac",
+      "files": [
+        "Watcher\\Watcher\\Watcher.dll",
+        "Watcher\\Watcher\\Watcher.json",
+        "Watcher\\Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.15_d31b1485.zip",
+      "bundle_sha256": "d31b14858b256dce8ebe2818fc1560d88987a510a55216a700caa64439eb1e9e"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-14T09:26:43.683490400Z",
+  "updated_at": "2026-06-14T09:31:31.865043300Z",
   "public": true,
   "mod_extras": {
-    "NecrobinderFemPortraits": {
-      "note": "Necrobinder Card Portraits",
-      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
-      "tags": [
-        "img"
-      ]
-    },
-    "RandomVision": {
-      "tags": [
-        "cheats"
-      ]
-    },
-    "AncientWaifus": {
-      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
-      "tags": [
-        "img"
-      ]
-    },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "EndRunGraph-v03.1-Beta-STS2-v0.107.0": {
-      "note": "Можно настроить",
-      "tags": [
-        "beta",
-        "stats"
-      ]
-    },
     "silentSkin": {
       "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
-      "tags": [
-        "img"
-      ]
-    },
-    "Aeonglass Feminization1.5": {
-      "note": "Анимешные часы",
       "tags": [
         "img"
       ]
@@ -414,13 +409,67 @@
         "stats"
       ]
     },
+    "Aeonglass Feminization1.5": {
+      "note": "Анимешные часы",
+      "tags": [
+        "img"
+      ]
+    },
+    "UnifiedSavePath": {
+      "tags": [
+        "base"
+      ]
+    },
+    "ModConfig": {
+      "tags": [
+        "base"
+      ]
+    },
+    "ShowCardDmgInRewards": {
+      "note": "Теперь работает",
+      "tags": [
+        "qol"
+      ]
+    },
     "EnemyCycle": {
       "tags": [
         "QOL"
       ]
     },
-    "ShowCardDmgInRewards": {
-      "note": "Теперь работает",
+    "RandomVision": {
+      "tags": [
+        "cheats"
+      ]
+    },
+    "EndRunGraph-v03.1-Beta-STS2-v0.107.0": {
+      "note": "Можно настроить",
+      "tags": [
+        "beta",
+        "stats"
+      ]
+    },
+    "DefectSkin_AD": {
+      "custom_url": "https://gall.dcinside.com/mgallery/board/view/?id=slay&no=360705"
+    },
+    "AncientWaifus": {
+      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+      "tags": [
+        "img"
+      ]
+    },
+    "RegentCardsAnimeRework": {
+      "tags": [
+        "img"
+      ]
+    },
+    "BaseLib": {
+      "note": "Основа. Всегда обновлять",
+      "tags": [
+        "base"
+      ]
+    },
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
       "tags": [
         "qol"
       ]
@@ -437,21 +486,17 @@
         "img"
       ]
     },
-    "AnimeWaifuSilent": {
-      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
-      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
+    "neowSkin": {
+      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
       "tags": [
         "img"
       ]
     },
-    "UnifiedSavePath": {
+    "NecrobinderFemPortraits": {
+      "note": "Necrobinder Card Portraits",
+      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
       "tags": [
-        "base"
-      ]
-    },
-    "ModConfig": {
-      "tags": [
-        "base"
+        "img"
       ]
     },
     "STS2-RitsuLib": {
@@ -459,21 +504,16 @@
         "base"
       ]
     },
-    "neowSkin": {
-      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
+    "AnimeWaifuSilent": {
+      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
+      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
       "tags": [
         "img"
       ]
     },
-    "BaseLib": {
-      "note": "Основа. Всегда обновлять",
+    "Watcher": {
       "tags": [
-        "base"
-      ]
-    },
-    "RegentCardsAnimeRework": {
-      "tags": [
-        "img"
+        "persona"
       ]
     }
   }
