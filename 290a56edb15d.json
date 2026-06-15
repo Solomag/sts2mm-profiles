@@ -56,7 +56,7 @@
       "name": "BaseLib",
       "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "hash": "33808be9f5d897a4f31da9d93f50fee3d7f25fa30d66fc0c0ed265d36b903ca5",
       "files": [
         "BaseLib\\BaseLib.dll",
         "BaseLib\\BaseLib.json",
@@ -193,7 +193,7 @@
     },
     {
       "name": "RitsuLib (STS2 0.105.1 compat)",
-      "version": "0.4.22",
+      "version": "0.4.23",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "3081ac75222492effa93e3cadf9fc54d8778c155bcfa1a48a7b99b960d11d408",
       "files": [
@@ -209,8 +209,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.22_845cdfc4.zip",
-      "bundle_sha256": "845cdfc45e2cb8e76c7f7a05419ac3f1fcdfb5699b910ba923bce66d9f1887e5"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.23_f5ca7084.zip",
+      "bundle_sha256": "f5ca7084a7db8f00a348f6d30093951b47d39f2d12267abb81ed20b39b91d744"
     },
     {
       "name": "silentSkin",
@@ -338,30 +338,35 @@
       "enabled": true,
       "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_d1a7be3e.zip",
       "bundle_sha256": "d1a7be3e61fb09c40dfd06d639b54072208d94d4713dfc2ab6930e587191882d"
+    },
+    {
+      "name": "CardSight",
+      "version": "1.1.1",
+      "source": "github:michaperki/cardsight",
+      "hash": "d6d9926c2808a9d8d3f67b896129f0a9c114d756eb0babbdd04cb1dbfdddfadf",
+      "files": [
+        "CardSight\\CardSight.dll",
+        "CardSight\\CardSight.json"
+      ],
+      "folder_name": "CardSight",
+      "mod_id": "CardSight",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.1.1_05798d02.zip",
+      "bundle_sha256": "05798d028c8dc4d3ae88c89a46579ba39e3b8cfd4495660172e3f9bd299da43e"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-14T19:51:54.553844800Z",
+  "updated_at": "2026-06-15T16:18:09.746814500Z",
   "public": true,
   "mod_extras": {
-    "ModConfig": {
+    "AnimeWaifuSilent": {
+      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
+      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
       "tags": [
-        "base"
+        "img"
       ]
     },
-    "ShowCardDmgInRewards": {
-      "note": "Теперь работает",
-      "tags": [
-        "qol"
-      ]
-    },
-    "RandomVision": {
-      "tags": [
-        "cheats"
-      ]
-    },
-    "necrobinderSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
+    "RegentCardsAnimeRework": {
       "tags": [
         "img"
       ]
@@ -371,27 +376,8 @@
         "base"
       ]
     },
-    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
-      "note": "Можно настроить",
-      "tags": [
-        "beta",
-        "stats"
-      ]
-    },
-    "ATA_Merchant": {
-      "note": "Neko Merchant Replacer",
-      "tags": [
-        "img"
-      ]
-    },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "silentSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
+    "neowSkin": {
+      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
       "tags": [
         "img"
       ]
@@ -402,14 +388,39 @@
         "base"
       ]
     },
+    "StsCompanion": {
+      "note": "Most reason for crashes.\n\nОсновная причина вылетов на данный момент. Я слишком люблю возможность выгружать стату на сайт, поэтому оставляю. Если хотите более стабильную сборку, отключайте.",
+      "tags": [
+        "stats"
+      ]
+    },
     "STS2-RitsuLib": {
       "tags": [
         "base"
       ]
     },
-    "EnemyCycle": {
+    "ShowCardDmgInRewards": {
+      "note": "Теперь работает",
       "tags": [
-        "QOL"
+        "qol"
+      ]
+    },
+    "CardSight": {
+      "tags": [
+        "[Cheats]"
+      ]
+    },
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
+      "tags": [
+        "qol"
+      ]
+    },
+    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
+      "note": "Можно настроить",
+      "tags": [
+        "beta",
+        "stats"
       ]
     },
     "Aeonglass Feminization1.5": {
@@ -418,17 +429,26 @@
         "img"
       ]
     },
-    "AncientWaifus": {
-      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+    "silentSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
       "tags": [
         "img"
       ]
     },
-    "AnimeWaifuSilent": {
-      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
-      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
+    "necrobinderSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
       "tags": [
         "img"
+      ]
+    },
+    "EnemyCycle": {
+      "tags": [
+        "QOL"
+      ]
+    },
+    "ModConfig": {
+      "tags": [
+        "base"
       ]
     },
     "Mesugaki": {
@@ -438,14 +458,10 @@
         "img"
       ]
     },
-    "RegentCardsAnimeRework": {
+    "ATA_Merchant": {
+      "note": "Neko Merchant Replacer",
       "tags": [
         "img"
-      ]
-    },
-    "StsCompanion": {
-      "tags": [
-        "stats"
       ]
     },
     "NecrobinderFemPortraits": {
@@ -455,8 +471,13 @@
         "img"
       ]
     },
-    "neowSkin": {
-      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
+    "RandomVision": {
+      "tags": [
+        "cheats"
+      ]
+    },
+    "AncientWaifus": {
+      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
       "tags": [
         "img"
       ]
