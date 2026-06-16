@@ -341,86 +341,60 @@
     },
     {
       "name": "CardSight",
-      "version": "1.1.1",
+      "version": "1.2.1",
       "source": "github:michaperki/cardsight",
       "hash": "d6d9926c2808a9d8d3f67b896129f0a9c114d756eb0babbdd04cb1dbfdddfadf",
       "files": [
         "CardSight\\CardSight.dll",
-        "CardSight\\CardSight.json"
+        "CardSight\\CardSight.json",
+        "CardSight\\CardSight_debug.log"
       ],
       "folder_name": "CardSight",
       "mod_id": "CardSight",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.1.1_05798d02.zip",
-      "bundle_sha256": "05798d028c8dc4d3ae88c89a46579ba39e3b8cfd4495660172e3f9bd299da43e"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.2.1_c3ae729e.zip",
+      "bundle_sha256": "c3ae729ebbe7091ae9ca8842359f47ef64452f95ea6542fcc95858ff9ee8a82a"
+    },
+    {
+      "name": "StS2 Card Advisor",
+      "version": "v1.15.6",
+      "source": "github:ing-gom/sts2-card-advisor",
+      "hash": "2bd2812896d5859a0ac6793abd789d4d68861525d6ec90b5bebce65329143e2c",
+      "files": [
+        "Sts2CardAdvisor\\Sts2CardAdvisor.dll",
+        "Sts2CardAdvisor\\Sts2CardAdvisor.json"
+      ],
+      "folder_name": "Sts2CardAdvisor",
+      "mod_id": "Sts2CardAdvisor",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.6_1869d2e2.zip",
+      "bundle_sha256": "1869d2e2575a0f2d6226504af4954e39ffb2ddb69c1f63d78c3a0ff5294aa48c"
+    },
+    {
+      "name": "Watcher",
+      "version": "1.4.16",
+      "source": "github:lamali292/WatcherMod",
+      "hash": "0c55737f4287630fd30bb341b13ca084cb8a03d071b03c1d921bfaf479d7bceb",
+      "files": [
+        "Watcher\\Watcher\\Watcher.dll",
+        "Watcher\\Watcher\\Watcher.json",
+        "Watcher\\Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.16_85683c67.zip",
+      "bundle_sha256": "85683c6729ec2aa4c748e9a73131a9a7d17686f9a2798a81c463d58fc80a6f78"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-15T16:18:09.746814500Z",
+  "updated_at": "2026-06-16T13:51:45.796707500Z",
   "public": true,
   "mod_extras": {
-    "AnimeWaifuSilent": {
-      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
-      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
-      "tags": [
-        "img"
-      ]
-    },
-    "RegentCardsAnimeRework": {
-      "tags": [
-        "img"
-      ]
-    },
-    "UnifiedSavePath": {
-      "tags": [
-        "base"
-      ]
-    },
-    "neowSkin": {
-      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
-      "tags": [
-        "img"
-      ]
-    },
     "BaseLib": {
       "note": "Основа. Всегда обновлять",
       "tags": [
         "base"
-      ]
-    },
-    "StsCompanion": {
-      "note": "Most reason for crashes.\n\nОсновная причина вылетов на данный момент. Я слишком люблю возможность выгружать стату на сайт, поэтому оставляю. Если хотите более стабильную сборку, отключайте.",
-      "tags": [
-        "stats"
-      ]
-    },
-    "STS2-RitsuLib": {
-      "tags": [
-        "base"
-      ]
-    },
-    "ShowCardDmgInRewards": {
-      "note": "Теперь работает",
-      "tags": [
-        "qol"
-      ]
-    },
-    "CardSight": {
-      "tags": [
-        "[Cheats]"
-      ]
-    },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
-      "note": "Можно настроить",
-      "tags": [
-        "beta",
-        "stats"
       ]
     },
     "Aeonglass Feminization1.5": {
@@ -429,14 +403,54 @@
         "img"
       ]
     },
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
+      "tags": [
+        "qol"
+      ]
+    },
+    "neowSkin": {
+      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
+      "tags": [
+        "img"
+      ]
+    },
+    "STS2-RitsuLib": {
+      "tags": [
+        "base"
+      ]
+    },
+    "RegentCardsAnimeRework": {
+      "tags": [
+        "img"
+      ]
+    },
+    "AncientWaifus": {
+      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+      "tags": [
+        "img"
+      ]
+    },
+    "ModConfig": {
+      "tags": [
+        "base"
+      ]
+    },
     "silentSkin": {
       "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
       "tags": [
         "img"
       ]
     },
-    "necrobinderSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
+    "ShowCardDmgInRewards": {
+      "note": "Теперь работает",
+      "tags": [
+        "qol"
+      ]
+    },
+    "AnimeWaifuSilent": {
+      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
+      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
       "tags": [
         "img"
       ]
@@ -446,9 +460,29 @@
         "QOL"
       ]
     },
-    "ModConfig": {
+    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
+      "note": "Можно настроить",
       "tags": [
-        "base"
+        "beta",
+        "stats"
+      ]
+    },
+    "CardSight": {
+      "tags": [
+        "[Cheats]"
+      ]
+    },
+    "StsCompanion": {
+      "note": "Most reason for crashes.\n\nОсновная причина вылетов на данный момент. Я слишком люблю возможность выгружать стату на сайт, поэтому оставляю. Если хотите более стабильную сборку, отключайте.",
+      "tags": [
+        "stats"
+      ]
+    },
+    "NecrobinderFemPortraits": {
+      "note": "Necrobinder Card Portraits",
+      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
+      "tags": [
+        "img"
       ]
     },
     "Mesugaki": {
@@ -464,9 +498,8 @@
         "img"
       ]
     },
-    "NecrobinderFemPortraits": {
-      "note": "Necrobinder Card Portraits",
-      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
+    "necrobinderSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
       "tags": [
         "img"
       ]
@@ -476,10 +509,20 @@
         "cheats"
       ]
     },
-    "AncientWaifus": {
-      "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+    "UnifiedSavePath": {
       "tags": [
-        "img"
+        "base"
+      ]
+    },
+    "Sts2CardAdvisor": {
+      "note": "Потенциально создаёт кучу лагов\n\nМожет из-за него вылетает?",
+      "tags": [
+        "stats"
+      ]
+    },
+    "Watcher": {
+      "tags": [
+        "persona"
       ]
     }
   }
