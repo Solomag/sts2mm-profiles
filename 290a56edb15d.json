@@ -330,40 +330,39 @@
       "hash": "86a806113c1534d51eb056e1b7e29fb0bd5e17acd9fbab419277612817cbecca",
       "files": [
         "RandomVision\\RandomVision.dll",
-        "RandomVision\\RandomVision.json",
-        "RandomVision\\RandomVision.pck"
+        "RandomVision\\RandomVision.json"
       ],
       "folder_name": "RandomVision",
       "mod_id": "RandomVision",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_d1a7be3e.zip",
-      "bundle_sha256": "d1a7be3e61fb09c40dfd06d639b54072208d94d4713dfc2ab6930e587191882d"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_042c60e8.zip",
+      "bundle_sha256": "042c60e854d22d613e80b69bb1f79244a3d848f47951564c9323401cf43fcfb6"
+    },
+    {
+      "name": "CardSight",
+      "version": "1.2.1",
+      "source": "nexus:slaythespire2/mods/1252",
+      "hash": "26b5e9d4d04bef979cd73b95cdd274a2b953d04e7f1fa092654f54a861d3d738",
+      "files": [
+        "CardSight\\CardSight.dll",
+        "CardSight\\CardSight.json",
+        "CardSight\\CardSight_debug.log"
+      ],
+      "folder_name": "CardSight",
+      "mod_id": "CardSight",
+      "enabled": true,
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.2.1_de3bb526.zip",
+      "bundle_sha256": "de3bb5264cafd4ee93fdd4b6a0e5a1c6bf730092d20817a04a9a99872bfd987d"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-17T14:55:11.458279800Z",
+  "updated_at": "2026-06-17T21:39:51.523267800Z",
   "public": true,
   "mod_extras": {
-    "ATA_Merchant": {
-      "note": "Neko Merchant Replacer",
+    "necrobinderSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
       "tags": [
         "img"
-      ]
-    },
-    "ModConfig": {
-      "tags": [
-        "base"
-      ]
-    },
-    "ShowCardDmgInRewards": {
-      "note": "Теперь работает",
-      "tags": [
-        "qol"
-      ]
-    },
-    "RandomVision": {
-      "tags": [
-        "cheats"
       ]
     },
     "UnifiedSavePath": {
@@ -371,52 +370,9 @@
         "base"
       ]
     },
-    "STS2-RitsuLib": {
-      "tags": [
-        "base"
-      ]
-    },
-    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
-      "note": "Можно настроить",
-      "tags": [
-        "beta",
-        "stats"
-      ]
-    },
-    "Aeonglass Feminization1.5": {
-      "note": "Анимешные часы",
-      "tags": [
-        "img"
-      ]
-    },
     "RegentCardsAnimeRework": {
       "tags": [
         "img"
-      ]
-    },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "silentSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
-      "tags": [
-        "img"
-      ]
-    },
-    "Mesugaki": {
-      "note": "Мод на внешность Регента",
-      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
-      "tags": [
-        "img"
-      ]
-    },
-    "BaseLib": {
-      "note": "Основа. Всегда обновлять",
-      "tags": [
-        "base"
       ]
     },
     "AncientWaifus": {
@@ -431,15 +387,52 @@
         "img"
       ]
     },
+    "EnemyCycle": {
+      "tags": [
+        "QOL"
+      ]
+    },
+    "NecrobinderFemPortraits": {
+      "note": "Necrobinder Card Portraits",
+      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
+      "tags": [
+        "img"
+      ]
+    },
+    "Aeonglass Feminization1.5": {
+      "note": "Анимешные часы",
+      "tags": [
+        "img"
+      ]
+    },
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
+      "tags": [
+        "qol"
+      ]
+    },
+    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
+      "note": "Можно настроить",
+      "tags": [
+        "beta",
+        "stats"
+      ]
+    },
     "StsCompanion": {
       "note": "Most reason for crashes.\n\nОсновная причина вылетов на данный момент. Я слишком люблю возможность выгружать стату на сайт, поэтому оставляю. Если хотите более стабильную сборку, отключайте.",
       "tags": [
         "stats"
       ]
     },
-    "EnemyCycle": {
+    "ModConfig": {
       "tags": [
-        "QOL"
+        "base"
+      ]
+    },
+    "BaseLib": {
+      "note": "Основа. Всегда обновлять",
+      "tags": [
+        "base"
       ]
     },
     "AnimeWaifuSilent": {
@@ -449,17 +442,45 @@
         "img"
       ]
     },
-    "necrobinderSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
+    "Mesugaki": {
+      "note": "Мод на внешность Регента",
+      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
       "tags": [
         "img"
       ]
     },
-    "NecrobinderFemPortraits": {
-      "note": "Necrobinder Card Portraits",
-      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
+    "STS2-RitsuLib": {
+      "tags": [
+        "base"
+      ]
+    },
+    "silentSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
       "tags": [
         "img"
+      ]
+    },
+    "ShowCardDmgInRewards": {
+      "note": "Теперь работает",
+      "tags": [
+        "qol"
+      ]
+    },
+    "RandomVision": {
+      "tags": [
+        "cheats"
+      ]
+    },
+    "ATA_Merchant": {
+      "note": "Neko Merchant Replacer",
+      "tags": [
+        "img"
+      ]
+    },
+    "CardSight": {
+      "tags": [
+        "[Cheats]",
+        "[Not working - Beta]"
       ]
     }
   }
