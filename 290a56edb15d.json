@@ -193,7 +193,7 @@
     },
     {
       "name": "RitsuLib (STS2 0.105.1 compat)",
-      "version": "0.4.23",
+      "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "3081ac75222492effa93e3cadf9fc54d8778c155bcfa1a48a7b99b960d11d408",
       "files": [
@@ -209,8 +209,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.23_f5ca7084.zip",
-      "bundle_sha256": "f5ca7084a7db8f00a348f6d30093951b47d39f2d12267abb81ed20b39b91d744"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.24_821a0e90.zip",
+      "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
     },
     {
       "name": "silentSkin",
@@ -338,68 +338,40 @@
       "enabled": true,
       "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_d1a7be3e.zip",
       "bundle_sha256": "d1a7be3e61fb09c40dfd06d639b54072208d94d4713dfc2ab6930e587191882d"
-    },
-    {
-      "name": "CardSight",
-      "version": "1.2.1",
-      "source": "github:michaperki/cardsight",
-      "hash": "d6d9926c2808a9d8d3f67b896129f0a9c114d756eb0babbdd04cb1dbfdddfadf",
-      "files": [
-        "CardSight\\CardSight.dll",
-        "CardSight\\CardSight.json",
-        "CardSight\\CardSight_debug.log"
-      ],
-      "folder_name": "CardSight",
-      "mod_id": "CardSight",
-      "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.2.1_c3ae729e.zip",
-      "bundle_sha256": "c3ae729ebbe7091ae9ca8842359f47ef64452f95ea6542fcc95858ff9ee8a82a"
-    },
-    {
-      "name": "Watcher",
-      "version": "1.4.16",
-      "source": "github:lamali292/WatcherMod",
-      "hash": "0c55737f4287630fd30bb341b13ca084cb8a03d071b03c1d921bfaf479d7bceb",
-      "files": [
-        "Watcher\\Watcher\\Watcher.dll",
-        "Watcher\\Watcher\\Watcher.json",
-        "Watcher\\Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.16_85683c67.zip",
-      "bundle_sha256": "85683c6729ec2aa4c748e9a73131a9a7d17686f9a2798a81c463d58fc80a6f78"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-16T16:32:27.389140800Z",
+  "updated_at": "2026-06-17T14:55:11.458279800Z",
   "public": true,
   "mod_extras": {
+    "ATA_Merchant": {
+      "note": "Neko Merchant Replacer",
+      "tags": [
+        "img"
+      ]
+    },
+    "ModConfig": {
+      "tags": [
+        "base"
+      ]
+    },
+    "ShowCardDmgInRewards": {
+      "note": "Теперь работает",
+      "tags": [
+        "qol"
+      ]
+    },
     "RandomVision": {
       "tags": [
         "cheats"
       ]
     },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "STS2-RitsuLib": {
+    "UnifiedSavePath": {
       "tags": [
         "base"
       ]
     },
-    "NecrobinderFemPortraits": {
-      "note": "Necrobinder Card Portraits",
-      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
-      "tags": [
-        "img"
-      ]
-    },
-    "UnifiedSavePath": {
+    "STS2-RitsuLib": {
       "tags": [
         "base"
       ]
@@ -411,56 +383,21 @@
         "stats"
       ]
     },
-    "necrobinderSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
-      "tags": [
-        "img"
-      ]
-    },
-    "ModConfig": {
-      "tags": [
-        "base"
-      ]
-    },
-    "AnimeWaifuSilent": {
-      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
-      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
-      "tags": [
-        "img"
-      ]
-    },
-    "Watcher": {
-      "tags": [
-        "persona"
-      ]
-    },
     "Aeonglass Feminization1.5": {
       "note": "Анимешные часы",
       "tags": [
         "img"
       ]
     },
-    "ShowCardDmgInRewards": {
-      "note": "Теперь работает",
-      "tags": [
-        "qol"
-      ]
-    },
-    "EnemyCycle": {
-      "tags": [
-        "QOL"
-      ]
-    },
-    "BaseLib": {
-      "note": "Основа. Всегда обновлять",
-      "tags": [
-        "base"
-      ]
-    },
-    "neowSkin": {
-      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
+    "RegentCardsAnimeRework": {
       "tags": [
         "img"
+      ]
+    },
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
+      "tags": [
+        "qol"
       ]
     },
     "silentSkin": {
@@ -469,13 +406,27 @@
         "img"
       ]
     },
-    "CardSight": {
+    "Mesugaki": {
+      "note": "Мод на внешность Регента",
+      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
       "tags": [
-        "[Cheats]"
+        "img"
+      ]
+    },
+    "BaseLib": {
+      "note": "Основа. Всегда обновлять",
+      "tags": [
+        "base"
       ]
     },
     "AncientWaifus": {
       "custom_url": "https://x.com/lunchshark01/status/2051681387816828993",
+      "tags": [
+        "img"
+      ]
+    },
+    "neowSkin": {
+      "custom_url": "https://www.patreon.com/posts/neow-skin-1-0-158160868",
       "tags": [
         "img"
       ]
@@ -486,20 +437,27 @@
         "stats"
       ]
     },
-    "Mesugaki": {
-      "note": "Мод на внешность Регента",
-      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
+    "EnemyCycle": {
+      "tags": [
+        "QOL"
+      ]
+    },
+    "AnimeWaifuSilent": {
+      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
+      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
       "tags": [
         "img"
       ]
     },
-    "RegentCardsAnimeRework": {
+    "necrobinderSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
       "tags": [
         "img"
       ]
     },
-    "ATA_Merchant": {
-      "note": "Neko Merchant Replacer",
+    "NecrobinderFemPortraits": {
+      "note": "Necrobinder Card Portraits",
+      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
       "tags": [
         "img"
       ]
