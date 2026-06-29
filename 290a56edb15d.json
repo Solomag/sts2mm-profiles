@@ -1,10 +1,11 @@
 {
   "id": "9f1a3933-5d55-4d49-ab5a-5fa4ea479372",
   "name": "Beta compatible QOL + anime",
-  "game_version": null,
+  "game_version": "0.107.1",
   "created_by": "solomag",
   "mods": [
     {
+      "mod_version_id": "b2d46886-64e5-40dd-8c10-532158c0f39c",
       "name": "Aeonglass Feminization",
       "version": "1.5",
       "source": "github:kiteseven/Aeonglass-Feminization",
@@ -21,6 +22,7 @@
       "bundle_sha256": "317bdc6647ad2fcc48ea9d9093d13e6b3e93e989230d4356a9a5e735e2a11949"
     },
     {
+      "mod_version_id": "f911602d-8784-4684-9659-1fe9b90bd533",
       "name": "AncientWaifus",
       "version": "0.0.1",
       "source": null,
@@ -37,6 +39,7 @@
       "bundle_sha256": "a9a6876acfb007700a14c20d1b15a4fb9a55b79efa15357839dd8352ed301f6e"
     },
     {
+      "mod_version_id": "71049250-ece1-459e-a256-b2820e233995",
       "name": "AnimeWaifuSilent",
       "version": "v0.0.0",
       "source": null,
@@ -53,10 +56,11 @@
       "bundle_sha256": "3844b04f1154154d232be3c305839fed86ead3a40f574d5a3018d1b23eef9ee1"
     },
     {
+      "mod_version_id": "7ba09cc6-5ed1-4bd5-87af-5e04afc0bae6",
       "name": "BaseLib",
-      "version": "v3.2.1",
+      "version": "v3.3.1",
       "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "33808be9f5d897a4f31da9d93f50fee3d7f25fa30d66fc0c0ed265d36b903ca5",
+      "hash": "6ba170e05516dab770a2a272fce48034e88b553c60e256072c705f58e4c883ac",
       "files": [
         "BaseLib\\BaseLib.dll",
         "BaseLib\\BaseLib.json",
@@ -65,14 +69,15 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_a7df565a.zip",
-      "bundle_sha256": "a7df565a3fc2b5726652ebc266e0c27f972627c80c81455e4c6bf744d7a7900e"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.1_98fea04d.zip",
+      "bundle_sha256": "98fea04debd8c3b55fd63e51dbad04ea483daa42817e9e826f46276f02f8eeb7"
     },
     {
+      "mod_version_id": "bf64438a-1321-4a4b-baae-dd1e2ce2768f",
       "name": "BetterSpire2 Lite",
-      "version": "v1.83.1",
+      "version": "v1.83.2",
       "source": "github:AlecRichardson/BetterSpire2",
-      "hash": "20e65aaaeccf9ed124275fada02f61dec0575cae8e672b24dd17eb375eab7839",
+      "hash": "a7ba3347d71d488ea83b109cc49fc3fe2fb4620187e5a93289d99fa76b5660d7",
       "files": [
         "BetterSpire2Lite\\BetterSpire2Lite.dll",
         "BetterSpire2Lite\\BetterSpire2Lite.json",
@@ -95,10 +100,11 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.83.1_283d1dc0.zip",
-      "bundle_sha256": "283d1dc00b54c2ffccc3d16d1db9fd02819fc6778ebc51d08bb4d76a64fe784e"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.83.2_2b086cfa.zip",
+      "bundle_sha256": "2b086cfaaf1f749e38a0cfbbaefc30e5c864f795673a93c5f1b9d3d4e7486179"
     },
     {
+      "mod_version_id": "7d0e74be-313f-4422-a53b-45a40e4abfed",
       "name": "End Run Graph",
       "version": "0.3.1",
       "source": "nexus:slaythespire2/mods/1040",
@@ -114,6 +120,7 @@
       "bundle_sha256": "7110b0ad0a3592b97124e1bac46b7e471539c17f2b65456606d31039669d3b3f"
     },
     {
+      "mod_version_id": "7ff902bd-9551-430b-bcda-e652575db5af",
       "name": "Enemy Cycle",
       "version": "0.1.0",
       "source": "github:sts2mods/EnemyCycle",
@@ -129,6 +136,7 @@
       "bundle_sha256": "11158b97b7891a41f925d553f16782685db309121da2914add95aabc90fb3f5a"
     },
     {
+      "mod_version_id": "e453cf0b-e9f8-4747-a7ca-4f0a1e8b5819",
       "name": "Mesugaki_Regent",
       "version": "0.1.1",
       "source": null,
@@ -145,6 +153,7 @@
       "bundle_sha256": "d649ea2db2443ed95477e766bf3e4eb0145451910c0eb0e057f32138783caca6"
     },
     {
+      "mod_version_id": "394ce336-0d3c-491a-ab65-59be654fe911",
       "name": "necrobinderSkin",
       "version": "0.0.1",
       "source": null,
@@ -160,6 +169,7 @@
       "bundle_sha256": "37ca3818e6da1a86f490558afb256bd88b3dac18bb94ea5a3ac6451764342f5f"
     },
     {
+      "mod_version_id": "87ed8e88-bb70-4e2a-a3b4-87082c7dfaa3",
       "name": "neowSkin",
       "version": "0.0.1",
       "source": null,
@@ -176,8 +186,9 @@
       "bundle_sha256": "d1e42b3cf5b46c06fcc42f46f6f31abc509b80d59d8015f61be0d84d6cc16272"
     },
     {
+      "mod_version_id": "62ccbb76-c297-4390-8da6-aca43b140fb8",
       "name": "RegentCardsAnimeRework",
-      "version": "v0.6.5",
+      "version": "v0.7",
       "source": "github:DoublePigeon/RegentCardsAnimeRework",
       "hash": "eb9f09774d4c069a4c0c9dced8e41a263c31c42a791515efde21f25779938b29",
       "files": [
@@ -188,12 +199,13 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6.5_5e4959c2.zip",
-      "bundle_sha256": "5e4959c2b01672873835115ee6aaa546f6a40a594156574958e29744f1ad3a89"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.7_cc78759f.zip",
+      "bundle_sha256": "cc78759faf845ec959989e57d1555375b6f21f7cdb74b9c487b85040b1707a2f"
     },
     {
+      "mod_version_id": "a9f1566c-8692-4693-af21-8a1796bf9bea",
       "name": "RitsuLib (STS2 0.105.1 compat)",
-      "version": "0.4.24",
+      "version": "0.4.41",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "3081ac75222492effa93e3cadf9fc54d8778c155bcfa1a48a7b99b960d11d408",
       "files": [
@@ -209,10 +221,11 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.24_821a0e90.zip",
-      "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_105_1_compat._v0.4.41_e201ba43.zip",
+      "bundle_sha256": "e201ba438e1205500e0a71fff28aa1c4b01a932c29303948b06599a281fca610"
     },
     {
+      "mod_version_id": "59d50414-cdc7-4a4c-a53f-b0fe40cd8117",
       "name": "silentSkin",
       "version": "0.0.1",
       "source": null,
@@ -228,22 +241,7 @@
       "bundle_sha256": "eb219d2732499c2b54c9afd91153cba5b463436ec2d60ac8802e3b527e33df25"
     },
     {
-      "name": "STS Tracker Companion",
-      "version": "1.6.0",
-      "source": "github:JiriPlasek/sts_tracker_mod",
-      "hash": "76af63e08343ee6afdd6243168afb069b43097952bf8a4b5cb79c5d327c07688",
-      "files": [
-        "StsCompanion\\mod_manifest.json",
-        "StsCompanion\\StsCompanion.dll",
-        "StsCompanion\\sts_companion_config.cfg"
-      ],
-      "folder_name": "StsCompanion",
-      "mod_id": "StsCompanion",
-      "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/STS_Tracker_Companion_v1.6.0_84bbe739.zip",
-      "bundle_sha256": "84bbe739bb8911ed1e49428dfd764af8a90506c8139ece0560af1e9abf76cc1b"
-    },
-    {
+      "mod_version_id": "7a6c8257-3c5f-4f21-a45d-98fe23387c10",
       "name": "Unified Save Path",
       "version": "1.0.0",
       "source": "github:luojiesi/SLS2Mods",
@@ -260,6 +258,7 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
+      "mod_version_id": "a7876858-29ad-4622-acb5-e4ef66d3437c",
       "name": "商人“阿塔”",
       "version": "0.1.5",
       "source": "nexus:slaythespire2/mods/900",
@@ -276,6 +275,7 @@
       "bundle_sha256": "fa7e90fb9be53933bad30bc7777df3cca5438282fff0fe0c1e5849bf0c25ec5a"
     },
     {
+      "mod_version_id": "b8aa640d-cca4-4412-a285-bb4e825a3451",
       "name": "尖塔棺者卡图娘化",
       "version": "v0.1.0",
       "source": "nexus:slaythespire2/mods/936",
@@ -293,6 +293,7 @@
       "bundle_sha256": "64c29c478256e4b7ed24f8e86d4a08e1ca81c3581d286fb56cbc6f516d8a5502"
     },
     {
+      "mod_version_id": "c76b67a8-04dd-4c56-8628-c82acc1f9c03",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
       "source": "nexus:slaythespire2/mods/27",
@@ -309,6 +310,7 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
+      "mod_version_id": "623de274-7566-4ba4-8afa-b7d932fdce59",
       "name": "ShowCardDmgInRewards",
       "version": "v1.0.3",
       "source": "github:phantomgamers/ShowCardDmgInRewards",
@@ -324,6 +326,7 @@
       "bundle_sha256": "38ec612835cd40b025ac20edc7519b192034aeadeeb99f834599eb73e127815d"
     },
     {
+      "mod_version_id": "911fcd7b-876a-40d3-8e9d-5e0566657644",
       "name": "RandomVision",
       "version": "0.2.0",
       "source": "github:Lecheeel/randomvision",
@@ -339,6 +342,7 @@
       "bundle_sha256": "042c60e854d22d613e80b69bb1f79244a3d848f47951564c9323401cf43fcfb6"
     },
     {
+      "mod_version_id": "cdd58be8-7814-435d-99a6-f05d0baa9764",
       "name": "CardSight",
       "version": "1.2.1",
       "source": "nexus:slaythespire2/mods/1252",
@@ -351,16 +355,88 @@
       "folder_name": "CardSight",
       "mod_id": "CardSight",
       "enabled": true,
-      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.2.1_de3bb526.zip",
-      "bundle_sha256": "de3bb5264cafd4ee93fdd4b6a0e5a1c6bf730092d20817a04a9a99872bfd987d"
+      "bundle_url": "https://github.com/Solomag/sts2mm-profiles/releases/download/bundles/CardSight_v1.2.1_69f4b34b.zip",
+      "bundle_sha256": "69f4b34bafe67045613d2bbd3f0ea924f2951edcebf2cf8cc8e7a0c183a87ff8"
     }
   ],
   "created_at": "2026-05-15T09:10:18.940875300Z",
-  "updated_at": "2026-06-17T21:39:51.523267800Z",
+  "updated_at": "2026-06-29T08:03:56.772419200Z",
   "public": true,
   "mod_extras": {
-    "necrobinderSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
+    "Aeonglass Feminization1.5": {
+      "note": "Анимешные часы",
+      "tags": [
+        "img"
+      ]
+    },
+    "Mesugaki": {
+      "note": "Мод на внешность Регента",
+      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
+      "tags": [
+        "img"
+      ]
+    },
+    "silentSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
+      "tags": [
+        "img"
+      ]
+    },
+    "NecrobinderFemPortraits": {
+      "note": "Necrobinder Card Portraits",
+      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
+      "tags": [
+        "img"
+      ]
+    },
+    "ModConfig": {
+      "tags": [
+        "base"
+      ]
+    },
+    "RandomVision": {
+      "tags": [
+        "cheats"
+      ]
+    },
+    "CardSight": {
+      "tags": [
+        "[Cheats]",
+        "[Not working - Beta]"
+      ]
+    },
+    "BaseLib": {
+      "note": "Основа. Всегда обновлять",
+      "tags": [
+        "base"
+      ]
+    },
+    "AnimeWaifuSilent": {
+      "note": "Ещё нет в Steam\n(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
+      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
+      "tags": [
+        "img"
+      ]
+    },
+    "STS2-RitsuLib": {
+      "tags": [
+        "base"
+      ]
+    },
+    "ATA_Merchant": {
+      "note": "Neko Merchant Replacer",
+      "tags": [
+        "img"
+      ]
+    },
+    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
+      "note": "Ещё нет в стиме",
+      "tags": [
+        "beta",
+        "stats"
+      ]
+    },
+    "RegentCardsAnimeRework": {
       "tags": [
         "img"
       ]
@@ -370,9 +446,9 @@
         "base"
       ]
     },
-    "RegentCardsAnimeRework": {
+    "EnemyCycle": {
       "tags": [
-        "img"
+        "QOL"
       ]
     },
     "AncientWaifus": {
@@ -387,75 +463,8 @@
         "img"
       ]
     },
-    "EnemyCycle": {
-      "tags": [
-        "QOL"
-      ]
-    },
-    "NecrobinderFemPortraits": {
-      "note": "Necrobinder Card Portraits",
-      "custom_url": "https://www.bilibili.com/video/BV1YN9XBMEtK/?spm_id_from=333.1387.upload.video_card.click",
-      "tags": [
-        "img"
-      ]
-    },
-    "Aeonglass Feminization1.5": {
-      "note": "Анимешные часы",
-      "tags": [
-        "img"
-      ]
-    },
-    "BetterSpire2Lite": {
-      "note": "Ключевой мод по улучшению QoL",
-      "tags": [
-        "qol"
-      ]
-    },
-    "EndRunGraph-v03.2-Beta-STS2-v0.107.0": {
-      "note": "Можно настроить",
-      "tags": [
-        "beta",
-        "stats"
-      ]
-    },
-    "StsCompanion": {
-      "note": "Most reason for crashes.\n\nОсновная причина вылетов на данный момент. Я слишком люблю возможность выгружать стату на сайт, поэтому оставляю. Если хотите более стабильную сборку, отключайте.",
-      "tags": [
-        "stats"
-      ]
-    },
-    "ModConfig": {
-      "tags": [
-        "base"
-      ]
-    },
-    "BaseLib": {
-      "note": "Основа. Всегда обновлять",
-      "tags": [
-        "base"
-      ]
-    },
-    "AnimeWaifuSilent": {
-      "note": "(Арты карт Silent)\nMidana\nhttps://www.bilibili.com/video/BV1utRyB5EkB/",
-      "custom_url": "https://www.bilibili.com/video/BV1utRyB5EkB/",
-      "tags": [
-        "img"
-      ]
-    },
-    "Mesugaki": {
-      "note": "Мод на внешность Регента",
-      "custom_url": "https://x.com/Seic_Oh/status/2043730520031613188",
-      "tags": [
-        "img"
-      ]
-    },
-    "STS2-RitsuLib": {
-      "tags": [
-        "base"
-      ]
-    },
-    "silentSkin": {
-      "custom_url": "https://www.patreon.com/posts/sts2-silent-skin-154478527",
+    "necrobinderSkin": {
+      "custom_url": "https://www.patreon.com/posts/sts2-0-5-156971990",
       "tags": [
         "img"
       ]
@@ -466,21 +475,10 @@
         "qol"
       ]
     },
-    "RandomVision": {
+    "BetterSpire2Lite": {
+      "note": "Ключевой мод по улучшению QoL",
       "tags": [
-        "cheats"
-      ]
-    },
-    "ATA_Merchant": {
-      "note": "Neko Merchant Replacer",
-      "tags": [
-        "img"
-      ]
-    },
-    "CardSight": {
-      "tags": [
-        "[Cheats]",
-        "[Not working - Beta]"
+        "qol"
       ]
     }
   }
